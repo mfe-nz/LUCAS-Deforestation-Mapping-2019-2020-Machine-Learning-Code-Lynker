@@ -1,6 +1,7 @@
 # LUCAS 
 * Land Cover inference using ML.
-* This repository contains the model weights file (models/LUCAS_LA_2020.h5) and the code to run inference over rgb rasters.
+* This repository does not contain the model weights file (models/LUCAS_LA_2020.h5) and the code to run inference over rgb rasters.
+** the weights file is too large to store in github as versioned code. However, the weights file is stored in the release (release1).
 * the output of this code is a classified raster
 
 ## input requirements
