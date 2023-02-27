@@ -35,3 +35,6 @@
         * 9      Natural regenerating forest
         * 10     Plantation Seedlings
         * 11     Water
+
+## New Zealand deforestation mapping 2019 and 2020 Technical report - Lynker Analytics
+https://environment.govt.nz/publications/new-zealand-deforestation-mapping-2019-and-2020-technical-report/
